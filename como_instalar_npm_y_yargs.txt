@@ -1,0 +1,11 @@
+1.- npm init
+2.- npm i yargs --save
+
+Se recomienda subir a git el proyecto sin la carpeta node_modules, la cual se creó
+al ejecutar el comando de npm i. Esto se recomienda de esta manera ya que 
+por ejemplo en otros sistemas operativos, puede que no se utilicen los mismos
+paquetes de esta carpeta. Para que esta carpeta se genere en la maquina que descargue el proyecto,
+se debe realizar ejecutando el siguiente comando: npm install.
+
+Para probarlo podemos borrar la carpeta node_modules y posteriormente ejecutar el comando
+node install, y de esta manera se generará nuevamente la carpeta.

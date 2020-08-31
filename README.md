@@ -1,1 +1,1 @@
-## Proyecto ejemplo en node js, mediante el cual a través de consola de comandos se puede solicitar la generación de tablas de multiplicar
+## Proyecto ejemplo en node js, mediante el cual a través de consola de comandos es posible listar tablas de multiplicar.

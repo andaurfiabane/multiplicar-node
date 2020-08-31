@@ -1,4 +1,4 @@
-/* //Requires
+/* //Requires 
 const fs = require('fs'); */
 const argv = require('./config/yargs').argv; //Se obtiene solo el objeto argv desde el require, en caso contrario tendriamos
 //que utilizar el objeto creado argv como argv.argv. Ej: argv.argv.limite
